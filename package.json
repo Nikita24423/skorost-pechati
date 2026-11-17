@@ -1,0 +1,9 @@
+{
+  "name": "skorost-pechati",
+  "version": "1.0.0",
+  "description": "Скорость печати — тренажёр RU/EN",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  }
+}
